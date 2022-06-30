@@ -12,3 +12,7 @@
 .navbar {
   opacity: 95%;
 }
+
+body {
+  padding-top: 48px;
+}
