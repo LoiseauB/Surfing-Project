@@ -21,3 +21,7 @@ body {
 header{
   font-family: 'Roboto', sans-serif;
 }
+
+footer p {
+  color: lightgray;
+}
