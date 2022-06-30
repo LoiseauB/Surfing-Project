@@ -1,0 +1,10 @@
+.change
+{
+  background-image: url(https://images.pexels.com/photos/416676/pexels-photo-416676.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  
+  height: 500px;
+}
